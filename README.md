@@ -1,2 +1,1 @@
-# tindog
-tindog challenge from udemy bootcamp course
+TinDog Starting Files
